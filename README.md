@@ -1,5 +1,7 @@
 # My Web Components 🚀
 
+![Contador de Acessos](https://komarev.com/ghpvc/?username=edsiddos&repo=my-web-components&color=orange&style=flat-square)
+
 Uma biblioteca de Web Components nativos, encapsulados e reutilizáveis, desenvolvida para ecossistemas modernos 
 de alta performance. Este repositório centraliza componentes de interface que atendem de forma perfeitamente
 os projetos da nossa stack principal: **Laravel 13, Vue.js, Inertia.js e Tailwind CSS**.
